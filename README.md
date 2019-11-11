@@ -1,2 +1,2 @@
 # Config
-configdemo
+configdemo Hello Word
